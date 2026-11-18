@@ -1,0 +1,5 @@
+course-archive/
+.local-index/
+.venv/
+__pycache__/
+.pytest_cache/
